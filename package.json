@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/move-there/issues"
   },
-  "homepage": "https://github.com/AgtLucas/move-there"
+  "homepage": "https://github.com/AgtLucas/move-there",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
